@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarvesh13k
-- 👀 I’m interested in ... WordPress Development, Web Development
-- 🌱 I’m currently learning ... C Programming Language and Python Language
-- 💞️ I’m looking to collaborate on ... WordPress Development
-- 📫 How to reach me ... You can mail me on my official email id sarvesh.kothule97@gmail.com
+- 👀 I’m interested in ... Software Development, and Cloud Services
+- 🌱 I’m currently learning ... SpringBoot and Hibernate frameworks of Java and Data Science in Python
+- 💕 I have uploaded some of my exciting Web Development Projects in this Profile
+- 📫 How to reach me ... You can mail me at my official email ID sarvesh.kothule97@gmail.com
 
 <!---
 sarvesh13k/sarvesh13k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
