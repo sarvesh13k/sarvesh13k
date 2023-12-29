@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarvesh13k
 - 👀 I’m interested in ... Software Development, and Cloud Services
-- 🌱 I’m currently learning ... SpringBoot and Hibernate frameworks of Java and Data Science in Python
+- 🌱 I’m currently learning ... SpringBoot and Hibernate frameworks of Java and Python Modules
 - 💕 I have uploaded some of my exciting Web Development Projects in this Profile
 - 📫 How to reach me ... You can mail me at my official email ID sarvesh.kothule97@gmail.com
 
